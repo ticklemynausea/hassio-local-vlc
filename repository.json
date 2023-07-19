@@ -1,5 +1,5 @@
 {
-  "name": "VLC Local Repository",
-  "url": "https://github.com/rodripf/hassio-local-vlc",
-  "maintainer": "Rodrigo Pérez Fulloni <rodripf@gmail.com>"
+  "name": "VLC Local Fork Repository",
+  "url": "https://github.com/ticklemynausea/hassio-local-vlc",
+  "maintainer": "Mário Carneiro <emailoftheyear@gmail.com>"
 }

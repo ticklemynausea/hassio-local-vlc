@@ -9,7 +9,7 @@ Place your media files on the /share folder in your hass.io or play files from n
 **Current state**: **Fully functional**
 
 ## Installation
-1. Follow the steps on [this tutorial](https://www.home-assistant.io/hassio/installing_third_party_addons/) to add this repository (https://github.com/rodripf/hassio-local-vlc) to your hassio installation.
+1. Follow the steps on [this tutorial](https://www.home-assistant.io/hassio/installing_third_party_addons/) to add this repository (https://github.com/ticklemynausea/hassio-local-vlc) to your hassio installation.
 2. Refresh the add-ons using the white arrow on the top right of the page
 3. Search for "Local VLC" on the list and click on it
 4. Click on the install button and wait! It could take a couple of minutes.
